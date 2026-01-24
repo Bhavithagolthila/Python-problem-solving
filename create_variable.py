@@ -1,4 +1,4 @@
-# create variables
+# create variable
 
 x = 10
 print(x)
